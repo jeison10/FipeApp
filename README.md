@@ -6,6 +6,6 @@ Senha: 123
 
 App incompleto, a parte de registo de usuário não esta finalizada.
 
-![WhatsApp Image 2022-09-20 at 11 06 21 (1)](https://user-images.githubusercontent.com/43612824/191280043-063117b6-1262-4c58-af44-fa5e823418a5.jpeg)=250x
-![WhatsApp Image 2022-09-20 at 11 06 20](https://user-images.githubusercontent.com/43612824/191280051-0611edb0-789c-4413-8235-57349dd0b40c.jpeg)=250x
-![WhatsApp Image 2022-09-20 at 11 06 21](https://user-images.githubusercontent.com/43612824/191280053-657a2f15-f8c9-4ee6-a102-9f06801524a8.jpeg)=250x
+![1](https://user-images.githubusercontent.com/43612824/191282014-8c613e98-d3aa-42d0-a9a3-8b127d727c30.png)
+![2](https://user-images.githubusercontent.com/43612824/191282018-74a13b3a-784d-4bd8-9141-c4ce9aa0f13f.png)
+![3](https://user-images.githubusercontent.com/43612824/191282009-d6f8e49d-259c-481b-9b1c-1af6fa3a353a.png)
